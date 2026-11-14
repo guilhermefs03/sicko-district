@@ -2,10 +2,6 @@
 
 Loja de streetwear para apresentação acadêmica. Backend em ASP.NET Core 10 / C#, banco relacional SQLite com adaptador nativo do Windows, interface web e versão mobile PWA usando a mesma API e o mesmo banco.
 
-## Documentação do trabalho
-
-O relatório preenchido está em [PIM IV SICKO DISTRICT](docs/PIM-IV-SICKO-DISTRICT.docx). As prévias da interface estão em [web](docs/preview.png) e [mobile](docs/mobile.png).
-
 ## Executar no Windows
 
 Requisito: Windows 10/11 e SDK .NET 10. Não exige SQL Server nem pacotes NuGet externos. O SQLite usa a biblioteca winsqlite3.dll fornecida pelo Windows.
