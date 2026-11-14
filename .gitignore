@@ -1,0 +1,16 @@
+bin/
+obj/
+.packages/
+.runtime/
+.keys/
+.vs/
+.vscode/
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+appsettings.*.local.json
+*.db
+*.db-shm
+*.db-wal
